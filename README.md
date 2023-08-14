@@ -1,0 +1,5 @@
+- 👋 Hi, I’m a random enjoyer of coding
+- 👀 I’m interested in learning coding
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate for learning coding
+- 📫 How to reach me you can't, im too far...
