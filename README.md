@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Kirby, a passionate in coding. I enjoy working on App and constantly strive to learn new things.
+Welcome to my GitHub profile! I'm Flqvix, a passionate in coding. I enjoy working on App and constantly strive to learn new things.
 
 ## 🔭 What I'm Currently Doing
 
