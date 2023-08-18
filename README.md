@@ -12,10 +12,10 @@ I'm currently diving deep into gaming app, and I'm excited to expand my skills i
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://streak-stats.demolab.com/?user=LelAryEnjoyer&theme=dark&hide_border=true&ring=FFA117&fire=FFA117&currStreakLabel=FFA117)
+![GitHub Stats](https://streak-stats.demolab.com/?user=Flqvix&theme=dark&hide_border=true&ring=FFA117&fire=FFA117&currStreakLabel=FFA117)
 
 ## 📫 Let's chat together
 
-Feel free to chat with me on discord: kkiikkiiii
+Feel free to chat with me on discord: kirby.enjoyer
 
 Looking forward to collaborating and sharing ideas with fellow developers and enthusiasts!
