@@ -12,6 +12,6 @@ I'm currently trying to learn Java
 
 ## 📫 Let's chat together
 
-Feel free to chat with me on discord: kirby.enjoyer
+Feel free to chat with me on discord: flavyyyy
 
 Looking forward to collaborating and sharing ideas with fellow developers and enthusiasts!
