@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Flqvix, a passionate in coding. I enjoy workin
 
 ## 🔭 What I'm Currently Doing
 
-I'm currently trying to learn Java
+I'm currently trying some coding languages
 
 ## 📈 GitHub Stats
 
